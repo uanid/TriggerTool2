@@ -1,0 +1,94 @@
+﻿name: TriggerTool2
+version: 1.5
+main: kr.tpsw.triggertool2.TriggerTool2
+author: TPsw
+
+commands:
+    tt2:
+        permission: 'triggertool2.admin'
+    tt2update:
+        permission: 'triggertool2.admin'
+    chat:
+        aliases: [tchat]
+        permission: 'triggertool2.admin'
+    broadcast:
+        aliases: [tbroadcast]
+        permission: 'triggertool2.admin'
+    chatop:
+        aliases: [tchatop]
+        permission: 'triggertool2.admin'
+    cca:
+        aliases: [tcca]
+        permission: 'triggertool2.admin'
+    ccu:
+        aliases: [tccu]
+        permission: 'triggertool2.admin'
+    cmd:
+        aliases: [tcmd]
+        permission: 'triggertool2.admin'
+    cmdcon:
+        aliases: [tcmdcon]
+        permission: 'triggertool2.admin'
+    cmdop:
+        aliases: [tcmdop]
+        permission: 'triggertool2.admin'
+    sendmessage:
+        aliases: [tsendmessage]
+        permission: 'triggertool2.admin'
+    setallowfly:
+        aliases: [tsetallowfly]
+        permission: 'triggertool2.admin'
+    setdisplay:
+        aliases: [tsetdisplay]
+        permission: 'triggertool2.admin'
+    setexhaustion:
+        aliases: [tsetexhaustion]
+        permission: 'triggertool2.admin'
+    setexp:
+        aliases: [tsetexp]
+        permission: 'triggertool2.admin'
+    setfly:
+        aliases: [tsetfly]
+        permission: 'triggertool2.admin'
+    setfood:
+        aliases: [tsetfood]
+        permission: 'triggertool2.admin'
+    setflyspeed:
+        aliases: [tsetflyspeed]
+        permission: 'triggertool2.admin'
+    sethealth:
+        aliases: [tsethealth]
+        permission: 'triggertool2.admin'
+    setlevel:
+        aliases: [tsetlevel]
+        permission: 'triggertool2.admin'
+    setmaxlealth:
+        aliases: [tsetmaxlealth]
+        permission: 'triggertool2.admin'
+    setplayertime:
+        aliases: [tsetplayertime]
+        permission: 'triggertool2.admin'
+    setplayerweather:
+        aliases: [tsetplayerweather]
+        permission: 'triggertool2.admin'
+    setsaturation:
+        aliases: [tsetsaturation]
+        permission: 'triggertool2.admin'
+    setsneak:
+        aliases: [tsetsneak]
+        permission: 'triggertool2.admin'
+    setsprint:
+        aliases: [tsetsprint]
+        permission: 'triggertool2.admin'
+    setvelocity:
+        aliases: [tsetvelocity]
+        permission: 'triggertool2.admin'
+    setwalkspeed:
+        aliases: [tsetwalkspeed]
+        permission: 'triggertool2.admin'
+    talk:
+        aliases: [ttalk]
+        permission: 'triggertool2.admin'
+    talkop:
+        aliases: [ttalkop]
+        permission: 'triggertool2.admin'
